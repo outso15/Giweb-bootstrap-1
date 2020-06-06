@@ -1,0 +1,40 @@
+.card {
+    width: 20rem;
+    height: 20rem;
+    align-items: center;
+    background-color: rgb( 93, 173, 226);
+    border-radius: 0.5rem;
+}
+
+.input-group {
+    margin: 10px 15px 2px 5px;
+}
+
+.card-img-top {
+    width: 6rem;
+    height: 6rem;
+    margin: 0px 60px 0px 90px;
+    border-radius: 11rem;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.streched-link {
+    margin-top: 0px;
+    color: black;
+}
+
+#btn-login {
+    width: 18rem;
+    height: 2.5rem;
+}
+
+.car-body {
+    align-items: center;
+    justify-content: center;
+}
